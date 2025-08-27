@@ -1,7 +1,6 @@
 import { describe, it, expect } from 'vitest'
-
 describe('smoke', () => {
-  it('adds numbers', () => {
+  it('adds', () => {
     expect(1 + 1).toBe(2)
   })
 })
